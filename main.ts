@@ -501,7 +501,7 @@ function compose(): void {
   );
 
   // Middle row: climate, the strait, the mourning.
-  const cop = panel(28, 540, 312, 208, 'CLIMATE · ANTALYA');
+  const cop = panel(28, 540, 312, 208, 'CLIMATE SUMMIT');
   drawLinesCentered(cop.cx, 580, ['COP31 ENDS', 'WITH NO DEAL'], 4, INK, 32, 2);
   drawLinesCentered(
     cop.cx,
