@@ -21,7 +21,7 @@
 
 ## What was built
 
-A single `main.ts` (~640 lines, all authored in-session) containing:
+A single `main.ts` (564 lines, all authored in-session) containing:
 
 - a hand-rolled rasteriser over a 1024×1024 RGB buffer (rects, thick
   Bresenham lines, circles, scanline triangles);
